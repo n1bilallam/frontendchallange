@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 3em 1em;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.4;
+}
+.pagination-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
